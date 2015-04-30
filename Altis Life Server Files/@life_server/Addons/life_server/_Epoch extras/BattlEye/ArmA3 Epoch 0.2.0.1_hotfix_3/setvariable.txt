@@ -1,0 +1,1 @@
+5 "" !=(Offer|Accept|BUILD_SLOT|TEXTURE_SLOT|AI_ITEMS|TRADE_ACTIVE|last_targeter) !"a3randvar"
