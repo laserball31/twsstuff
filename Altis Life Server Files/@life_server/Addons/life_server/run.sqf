@@ -1,6 +1,6 @@
 /* ********************************************************************************* */
 /* *******************Developed by infiSTAR (infiSTAR23@gmail.com)****************** */
-/* ******************Copyright © 2014 infiSTAR all rights reserved****************** */
+/* ******************Copyright Â© 2014 infiSTAR all rights reserved****************** */
 /* *********************************www.infiSTAR.de********************************* */
 /* ********************************************************************************* */
 /* ********************************************************************************* */
@@ -9,17 +9,17 @@
 /* "_OPEN_ADMIN_MENU_KEY": Key to open the menu (google DIK_KeyCodes (0x3B is F1))   */
 _OPEN_ADMIN_MENU_KEY = 0x3B;
 /* "_MOD": Can be 'Epoch', 'AltisLife', 'Other'     */
-_MOD = 'Epoch';
+_MOD = 'AltisLife';
 /* What ESCAPE Menu shows */
-_ESCMNUTOP = 'AntiHack & AdminTools';
-_ESCMNUBOT = 'by infiSTAR.de';
+_ESCMNUTOP = 'Teamspeak: 108.61.25.67:12287';
+_ESCMNUBOT = 'provided by The Weapon Shop';
 /* "_JSRS": Allow JSRS Addon */
 _JSRS = false;
 /* "_passwordAdmin": Taken from the servers config.cfg, needed for servercommands     */
 _passwordAdmin = 'blub';
 _adminLevel1_UIDs =
 [
-	'76561198038791779','76561198050219447','76561198082727540','76561198082727540'
+	'0','0','0','0'
 ];
 _adminLevel1 =
 [
@@ -35,7 +35,7 @@ _adminLevel1 =
 ];
 _adminLevel2_UIDs =
 [
-	'76561198087547423','76561198074389155','0'
+	'0','0','0'
 ];
 _adminLevel2 =
 [
@@ -71,7 +71,7 @@ _adminLevel3 =
 /* ********************************************************************************* */
 /* ********************************************************************************* */
 /* *******************Developed by infiSTAR (infiSTAR23@gmail.com)****************** */
-/* ******************Copyright © 2014 infiSTAR all rights reserved****************** */
+/* ******************Copyright Â© 2014 infiSTAR all rights reserved****************** */
 /* *********************************www.infiSTAR.de********************************* */
 /* ********************************************************************************* */
 /* ********************************************************************************* */
@@ -210,4 +210,4 @@ diag_log format['infiSTAR.de %1 - run.sqf - AdminTools included!',time];
 /* ********************************************************************************* */
 /* *********************************www.infiSTAR.de********************************* */
 /* *******************Developed by infiSTAR (infiSTAR23@gmail.com)****************** */
-/* ******************Copyright © 2014 infiSTAR all rights reserved****************** */
+/* ******************Copyright Â© 2014 infiSTAR all rights reserved****************** */
